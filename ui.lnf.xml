@@ -1,0 +1,7 @@
+<application>
+  <component name="UISettings">
+    <option name="MAX_LOOKUP_LIST_HEIGHT" value="21" />
+    <option name="MAX_LOOKUP_WIDTH2" value="661" />
+    <option name="PIN_FIND_IN_PATH_POPUP" value="true" />
+  </component>
+</application>

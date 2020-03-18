@@ -1,0 +1,9 @@
+<application>
+  <component name="CPPToolchains" version="4">
+    <toolchains detectedVersion="5">
+      <toolchain name="mingw73_32" toolSetKind="MINGW" toolSetPath="C:\Qt\Qt5.12.3\Tools\mingw730_32" debuggerKind="CUSTOM_GDB" customGDBPath="C:\Qt\Qt5.12.3\Tools\mingw730_32\bin\gdb.exe" />
+      <toolchain name="mingw73_64" toolSetKind="MINGW" toolSetPath="C:\Qt\Qt5.12.3\Tools\mingw730_64" debuggerKind="CUSTOM_GDB" customGDBPath="C:\Qt\Qt5.12.3\Tools\mingw730_64\bin\gdb.exe" />
+      <toolchain name="mingw53_32" toolSetKind="MINGW" toolSetPath="C:\Qt\Qt5.11.2\Tools\mingw530_32" customCMakePath="C:\Program Files\CMake\bin\cmake.exe" debuggerKind="CUSTOM_GDB" customGDBPath="C:\Qt\Qt5.11.2\Tools\mingw530_32\bin\gdb.exe" />
+    </toolchains>
+  </component>
+</application>
