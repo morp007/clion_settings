@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="All Places" />
-    <option name="defaultScopeName" value="All Places" />
-    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="customScope" value="File '...\Sources\Agilent6700\impl\emu\Agilent6700Emu.cpp'" />
+    <option name="defaultScopeName" value="File '...\Sources\Agilent6700\impl\emu\Agilent6700Emu.cpp'" />
+    <option name="SEARCH_SCOPE" value="File '...\Sources\Agilent6700\impl\emu\Agilent6700Emu.cpp'" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
