@@ -1,10 +1,10 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="gui" />
-    <option name="defaultScopeName" value="gui" />
+    <option name="customScope" value="global" />
+    <option name="defaultScopeName" value="global" />
     <option name="regularExpressions" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
-    <option name="SEARCH_SCOPE" value="gui" />
+    <option name="SEARCH_SCOPE" value="global" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
