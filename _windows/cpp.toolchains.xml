@@ -5,6 +5,7 @@
       <toolchain name="mingw73_64" toolSetKind="MINGW" toolSetPath="C:\Qt\Qt5.12.3\Tools\mingw730_64" debuggerKind="CUSTOM_GDB" customGDBPath="C:\Qt\Qt5.12.3\Tools\mingw730_64\bin\gdb.exe" />
       <toolchain name="mingw53_32" toolSetKind="MINGW" toolSetPath="C:\Qt\Qt5.11.2\Tools\mingw530_32" customCMakePath="C:\Program Files\CMake\bin\cmake.exe" debuggerKind="CUSTOM_GDB" customGDBPath="C:\Qt\Qt5.11.2\Tools\mingw530_32\bin\gdb.exe" />
       <toolchain name="WSL" toolSetKind="WSL" toolSetPath="C:\Users\User\AppData\Local\Microsoft\WindowsApps\ubuntu1804.exe" customCMakePath="\usr\bin\cmake" hostId="fc655bef-dfb6-4246-9fb6-d0d13e774d17" debuggerKind="CUSTOM_GDB" customGDBPath="\usr\bin\gdb" />
+      <toolchain name="WSL_clazy" toolSetKind="WSL" toolSetPath="C:\Users\User\AppData\Local\Microsoft\WindowsApps\ubuntu1804.exe" customCMakePath="\usr\bin\cmake" customCXXCompilerPath="/mnt/c/PROJECTS/clazy/build/release/bin/clazy" hostId="b8c3fb3b-2684-45cc-98ae-c78cb8936c91" debuggerKind="CUSTOM_GDB" customGDBPath="\usr\bin\gdb" />
     </toolchains>
   </component>
 </application>
