@@ -19,6 +19,9 @@
     <keyboard-shortcut first-keystroke="ctrl alt up" />
   </action>
   <action id="CompareTwoFiles" />
+  <action id="Console.TableResult.ColumnsList">
+    <keyboard-shortcut first-keystroke="ctrl r" />
+  </action>
   <action id="Debug">
     <keyboard-shortcut first-keystroke="shift f9" />
     <keyboard-shortcut first-keystroke="alt b" />
@@ -52,7 +55,6 @@
   <action id="FileChooser.GotoProject" />
   <action id="FileChooser.TogglePathShowing" />
   <action id="FileStructurePopup">
-    <keyboard-shortcut first-keystroke="ctrl f12" />
     <keyboard-shortcut first-keystroke="ctrl r" />
   </action>
   <action id="Forward">
@@ -66,7 +68,7 @@
   <action id="GotoBookmark2" />
   <action id="GotoDeclaration">
     <mouse-shortcut keystroke="control button1" />
-    <mouse-shortcut keystroke="button2" />
+    <keyboard-shortcut first-keystroke="ctrl f12" />
   </action>
   <action id="GotoFile">
     <keyboard-shortcut first-keystroke="ctrl p" />
@@ -143,6 +145,9 @@
     <keyboard-shortcut first-keystroke="alt h" />
   </action>
   <action id="TypeHierarchyBase.BaseOnThisType" />
+  <action id="UML.ShowStructure">
+    <keyboard-shortcut first-keystroke="ctrl r" />
+  </action>
   <action id="XDebugger.CopyWatch" />
   <action id="openAssertEqualsDiff" />
 </keymap>
