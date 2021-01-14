@@ -3080,6 +3080,58 @@
         <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/third_party/2and3" />
       </SOURCES>
     </library>
+    <library name="Python 2.7 interpreter library">
+      <CLASSES>
+        <root url="file://C:/Python27/Lib/site-packages/RC_Module" />
+        <root url="file://C:/Python27/Lib/site-packages/RC_Module/coldboot" />
+        <root url="file://C:/Python27/Lib/site-packages/RC_Module/comport" />
+        <root url="file://C:/Python27/Lib/site-packages/RC_Module/converters" />
+        <root url="file://C:/Python27" />
+        <root url="file://C:/Python27/DLLs" />
+        <root url="file://C:/Python27/Lib" />
+        <root url="file://C:/Python27/Lib/lib-tk" />
+        <root url="file://C:/Python27/Lib/site-packages" />
+        <root url="file://C:/PROJECTS/PO_KPA_BIVK_R/Funlib/Build/release" />
+        <root url="file://C:/PROJECTS/PO_KPA_TMSN_BIVK/FunlibTMS/build/release" />
+        <root url="file://C:/PROJECTS/PO_KPA_VMN_BIVK/FunlibVM/build/release" />
+        <root url="file://C:/Python27/Lib/site-packages/win32" />
+        <root url="file://C:/Python27/Lib/site-packages/win32/lib" />
+        <root url="file://C:/Python27/Lib/site-packages/pythonwin" />
+        <root url="file://C:/PROJECTS/sitl/build" />
+        <root url="file://C:/RC_Module/PO_KPA_BIVK_MR/PythonModules" />
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/CLion2020.3/python_stubs/-762174762" />
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/python-skeletons" />
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stdlib/2" />
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stdlib/2and3" />
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/third_party/2" />
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/third_party/2and3" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/Python27/Lib/site-packages/RC_Module" />
+        <root url="file://C:/Python27/Lib/site-packages/RC_Module/coldboot" />
+        <root url="file://C:/Python27/Lib/site-packages/RC_Module/comport" />
+        <root url="file://C:/Python27/Lib/site-packages/RC_Module/converters" />
+        <root url="file://C:/Python27" />
+        <root url="file://C:/Python27/DLLs" />
+        <root url="file://C:/Python27/Lib" />
+        <root url="file://C:/Python27/Lib/lib-tk" />
+        <root url="file://C:/Python27/Lib/site-packages" />
+        <root url="file://C:/PROJECTS/PO_KPA_BIVK_R/Funlib/Build/release" />
+        <root url="file://C:/PROJECTS/PO_KPA_TMSN_BIVK/FunlibTMS/build/release" />
+        <root url="file://C:/PROJECTS/PO_KPA_VMN_BIVK/FunlibVM/build/release" />
+        <root url="file://C:/Python27/Lib/site-packages/win32" />
+        <root url="file://C:/Python27/Lib/site-packages/win32/lib" />
+        <root url="file://C:/Python27/Lib/site-packages/pythonwin" />
+        <root url="file://C:/PROJECTS/sitl/build" />
+        <root url="file://C:/RC_Module/PO_KPA_BIVK_MR/PythonModules" />
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/CLion2020.3/python_stubs/-762174762" />
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/python-skeletons" />
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stdlib/2" />
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stdlib/2and3" />
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/third_party/2" />
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/third_party/2and3" />
+      </SOURCES>
+    </library>
     <library name="Python 3.7 interpreter library">
       <CLASSES>
         <root url="file://C:/Program Files (x86)/Python37-32/DLLs" />
