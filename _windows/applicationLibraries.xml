@@ -3756,5 +3756,31 @@
         <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/2and3" />
       </SOURCES>
     </library>
+    <library name="Python 3.7 interpreter library">
+      <CLASSES>
+        <root url="file://C:/Program Files (x86)/Python37-32/DLLs" />
+        <root url="file://C:/Program Files (x86)/Python37-32/Lib" />
+        <root url="file://C:/Program Files (x86)/Python37-32" />
+        <root url="file://C:/Program Files (x86)/Python37-32/Lib/site-packages" />
+        <root url="file://$USER_HOME$/.CLion2018.3/system/python_stubs/-1384526572" />
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/python-skeletons" />
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/3" />
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/2and3" />
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/3" />
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/2and3" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/Program Files (x86)/Python37-32/DLLs" />
+        <root url="file://C:/Program Files (x86)/Python37-32/Lib" />
+        <root url="file://C:/Program Files (x86)/Python37-32" />
+        <root url="file://C:/Program Files (x86)/Python37-32/Lib/site-packages" />
+        <root url="file://$USER_HOME$/.CLion2018.3/system/python_stubs/-1384526572" />
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/python-skeletons" />
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/3" />
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/2and3" />
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/3" />
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/2and3" />
+      </SOURCES>
+    </library>
   </component>
 </application>
