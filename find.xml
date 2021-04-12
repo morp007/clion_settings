@@ -1,10 +1,10 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '...\Sources\Gui\database\DataBase.cpp'" />
-    <option name="defaultScopeName" value="File '...\Sources\Gui\database\DataBase.cpp'" />
+    <option name="customScope" value="gui" />
+    <option name="defaultScopeName" value="gui" />
     <option name="regularExpressions" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
-    <option name="SEARCH_SCOPE" value="File '...\Sources\Gui\database\DataBase.cpp'" />
+    <option name="SEARCH_SCOPE" value="gui" />
     <option name="FILE_MASK" value="*.cpp" />
     <mask>*.css</mask>
     <mask>*.html</mask>
